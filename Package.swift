@@ -17,5 +17,5 @@ let package = Package(
             name: "Box2D"
         )
     ],
-    cxxLanguageStandard: .gnucxx20
+    cxxLanguageStandard: .cxx20
 )

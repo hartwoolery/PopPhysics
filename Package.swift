@@ -16,6 +16,5 @@ let package = Package(
         .target(
             name: "Box2D"
         )
-    ],
-    cxxLanguageStandard: .cxx20
+    ]
 )
